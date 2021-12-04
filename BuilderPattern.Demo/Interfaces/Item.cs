@@ -8,8 +8,8 @@ namespace BuilderPattern.Demo.Interfaces
 {
     public interface Item
     {
-        public String name();
-        public Packing packing();
-        public float price();
+        public String Name();
+        public Packing Packing();
+        public float Price();
     }
 }

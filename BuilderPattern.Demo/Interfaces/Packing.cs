@@ -8,6 +8,6 @@ namespace BuilderPattern.Demo.Interfaces
 {
     public interface Packing
     {
-        public String pack();
+        public String Pack();
     }
 }
